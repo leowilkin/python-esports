@@ -41,5 +41,4 @@ You have been asked to develop a command line program that is able to manage the
 * Include the ability to delete all results from individuals or teams if they have cheated
 * Have an option to identify the winning player
 * Have an option to identify the winning team
-![image](https://github.com/user-attachments/assets/e1e262f7-4dbe-4e55-9f77-cfe412865c2c)
 
