@@ -1,0 +1,4 @@
+Bluey,Team Blue,1,55,1,55.0
+Reddie,Team Red,1,45,2,22.5
+Bluey,Team Blue,2,150,2,75.0
+Reddie,Team Red,2,45,0,inf
